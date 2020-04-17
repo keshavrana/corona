@@ -27,14 +27,8 @@
         <a class="nav-link text-light text-uppercase font-weight-bold px-3" href="#preventid">prevention 
         </a>
       </li>
-
-  
       <li class="nav-item">
-        <a class="nav-link text-light text-uppercase font-weight-bold px-3" href="#live">worldcoronalive 
-        </a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link text-light text-uppercase font-weight-bold px-3" href="indiacoronalive.php">indiacoronalive 
+        <a class="nav-link text-light text-uppercase font-weight-bold px-3" href="indiacoronalive.php">worldcoronalive
         </a>
       </li>
 
@@ -91,7 +85,7 @@
 
 <!------------footer--->
 <footer class="mt-5">
-  <div class="footer_style text-white text-center container-fluid">
+  <div class="footer text-center bg-dark text-white container-fluid">
     <p>copyright by KeshavRana</p>
     
   </div>
