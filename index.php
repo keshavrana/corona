@@ -142,12 +142,12 @@ $i=1;
 while($i < $statescount){
   ?>
   <tr>
-    <td style="background: #2196f3;"><?php echo $coranalive['statewise'][$i]['lastupdatedtime'] ?></td>
-    <td style="background: #ffc107;"><?php echo $coranalive['statewise'][$i]['state'] ?></td>
-    <td style="background: #008c76FF;"><?php echo $coranalive['statewise'][$i]['confirmed'] ?></td>
-    <td style="background: #e91e7f;"><?php echo $coranalive['statewise'][$i]['active'] ?></td>
-    <td style="background: #4caf50;"><?php echo $coranalive['statewise'][$i]['recovered'] ?></td>
-    <td style="background: #EE2737FF;"><?php echo $coranalive['statewise'][$i]['deaths'] ?></td>
+    <td style="background: #7a4a91;"><?php echo $coranalive['statewise'][$i]['lastupdatedtime'] ?></td>
+    <td style="background: #4bb7d8;"><?php echo $coranalive['statewise'][$i]['state'] ?></td>
+    <td style="background: #f36e23;"><?php echo $coranalive['statewise'][$i]['confirmed'] ?></td>
+    <td style="background: #4bb7d8;"><?php echo $coranalive['statewise'][$i]['active'] ?></td>
+    <td style="background: #9cc850;"><?php echo $coranalive['statewise'][$i]['recovered'] ?></td>
+    <td style="background: #f36e23;"><?php echo $coranalive['statewise'][$i]['deaths'] ?></td>
   </tr>
 
 <?php

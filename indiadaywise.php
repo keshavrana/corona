@@ -15,7 +15,7 @@
   <ul class="navbar-nav pr-5 text-capitalize">   
 
    <li class="nav-item"><a class="nav-link text-light text-uppercase font-weight-bold px-3"
-      href="#"><h5>COVID-19</h5></a>
+      href="index.php"><h5>COVID-19</h5></a>
  </li>
 </ul>
  <ul class="navbar-nav pr-5 text-capitalize">
