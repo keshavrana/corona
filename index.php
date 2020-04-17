@@ -394,7 +394,7 @@ while($i < $statescount){
 
 <!------------footer--->
 <footer class="mt-5">
-	<div class="footer_style text-white text-center container-fluid">
+	<div class="footer text-center bg-dark text-white container-fluid">
 		<p>copyright by KeshavRana</p>
 		
 	</div>
