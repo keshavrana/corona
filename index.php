@@ -170,7 +170,7 @@ while($i < $statescount){
 		<h1> About COVID-19</h1>
 			</div>
 	<div class="row pt-5">
-		<div class="col-lg-5 col-md-6 col-12 ml-5 about-res">
+		<div class="col-lg-5 col-md-6 col-12 ml-5 about_res">
 			<img src="images/about.jpg" class="img-fluid">
 		</div>
 		<div class="col-lg-6 col-md-6 col-12">
