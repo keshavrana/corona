@@ -54,7 +54,7 @@
 
   </div>
 </nav>
-<marquee style="color:red; font-size:15px;" behavior="scroll" direction="left" scrollamount="8" class="pt-2">यह डाटा 15 मिनट के बाद अपडेट हो रहा है</marquee>
+<marquee style="color:red; font-size:15px;" behavior="scroll" direction="left" scrollamount="8" class="pt-2">This Data Is Updating After 15 Minutes</marquee>
 
 <!----
 
