@@ -102,16 +102,6 @@ $i++;
 	
 
 </section>
-
-<?php
-$data = file_get_contents('https://api.covid19india.org/data.json');
-$daywise = json_decode($data, true);
-$totalcount = count($daywise['cases_time_series']);
-$i = 0;
-while ($i < $totalcount) {
-	echo $daywise['cases_time_series'][$i] ['date']."<br>";
-}
-?>
 <div class="container scrolltop float-right pr-5">
 <i class="fa fa-arrow-up" onclick="topFunction()" id="myBtn"></i>
 </div>
