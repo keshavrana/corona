@@ -19,14 +19,7 @@
  </li>
 </ul>
  <ul class="navbar-nav pr-5 text-capitalize">
-    <li class="nav-item"><a class="nav-link text-light text-uppercase font-weight-bold px-3" href="#aboutid">about</a></li>
 
-    <li class="nav-item"><a class="nav-link text-light text-uppercase font-weight-bold px-3" href="#sympid">symptoms</a></li>
-
-      <li class="nav-item">
-        <a class="nav-link text-light text-uppercase font-weight-bold px-3" href="#preventid">prevention 
-        </a>
-      </li>
       <li class="nav-item">
         <a class="nav-link text-light text-uppercase font-weight-bold px-3" href="indiacoronalive.php">worldcoronalive
         </a>
@@ -37,10 +30,7 @@
         </a>
       </li>
 
-      <li class="nav-item">
-<a class="nav-link text-light text-uppercase font-weight-bold px-3" href="#contactid">contact
-        </a>
-      </li>
+      
 </head>
 
   </div>

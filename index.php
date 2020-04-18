@@ -7,8 +7,6 @@
 </head>
 <body onload="fetch()">
 
-
-
 <nav class="navbar navbar-expand-lg navbar-light bg-dark p-3 nav_color">
 
   <a href="/" class="navbar-brand"></a>
@@ -18,7 +16,7 @@
   <ul class="navbar-nav pr-5 text-capitalize">   
 
    <li class="nav-item"><a class="nav-link text-light text-uppercase font-weight-bold px-3"
-      href="#"><h5>COVID-19</h5></a>
+      href="index.php"><h5>COVID-19</h5></a>
  </li>
 </ul>
  <ul class="navbar-nav pr-5 text-capitalize">
@@ -54,7 +52,7 @@
 
   </div>
 </nav>
-<marquee style="color:red; font-size:15px;" behavior="scroll" direction="left" scrollamount="8" class="pt-2">This Data Is Updating After 15 Minutes</marquee>
+<marquee style="color:red; font-size:15px;" behavior="scroll" direction="left" scrollamount="8" class="pt-2">This data is Updating After 15 Minutes</marquee>
 
 <!----
 

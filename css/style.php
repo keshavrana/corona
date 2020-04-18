@@ -108,5 +108,5 @@ html{
 	}
 	.about_res{ margin-left: 0!important; }
 }
-
+.banner_style{ margin-left: 0!important; }
 </style>
