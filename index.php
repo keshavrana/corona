@@ -138,7 +138,7 @@ $coranalive = json_decode($data, true);
 
 $statescount = count($coranalive['statewise']);
 
-$i=1;
+$i=0;
 while($i < $statescount){
   ?>
   <tr>
@@ -148,6 +148,7 @@ while($i < $statescount){
     <td style="background: #4bb7d8;"><?php echo $coranalive['statewise'][$i]['active'] ?></td>
     <td style="background: #9cc850;"><?php echo $coranalive['statewise'][$i]['recovered'] ?></td>
     <td style="background: #f36e23;"><?php echo $coranalive['statewise'][$i]['deaths'] ?></td>
+
   </tr>
 
 <?php
