@@ -192,42 +192,42 @@ while($i < $statescount){
 				<div class="row">
 					<div class="col-lg-4 col-md-4 col-12 mt-5">
 					<figure class="text-center">
-					<img src="images/caugh2.jpg" class="img-fluid" width="120"
+					<img src="images/cough.png" class="img-fluid" width="120"
 					height="120">
 					<figcaption>cough</figcaption>
 					</figure>
 					</div>
 					<div class="col-lg-4 col-md-4 col-12 mt-5">
 					<figure class="text-center">
-					<img src="images/nose.jpeg" class="img-fluid" width="120"
+					<img src="images/rhinitis.png" class="img-fluid" width="120"
 					height="120">
 					<figcaption>runny nose</figcaption>
 					</figure>
 					</div>
 					<div class="col-lg-4 col-md-4 col-12 mt-5">
 					<figure class="text-center">
-					<img src="images/fever.jpg" class="img-fluid" width="120"
+					<img src="images/fever.png" class="img-fluid" width="120"
 					height="120">
 					<figcaption>fever</figcaption>
 					</figure>
 					</div>
 					<div class="col-lg-4 col-md-4 col-12 mt-5">
 					<figure class="text-center">
-					<img src="images/cold.jpg" class="img-fluid" width="120"
+					<img src="images/sick.png" class="img-fluid" width="120"
 					height="120">
 					<figcaption>cold</figcaption>
 					</figure>
 					</div>
 					<div class="col-lg-4 col-md-4 col-12 mt-5">
 					<figure class="text-center">
-					<img src="images/tired3.jpg" class="img-fluid" width="120"
+					<img src="images/arm.png" class="img-fluid" width="120"
 					height="120">
 					<figcaption>tiredness</figcaption>
 					</figure>
 					</div>
 					<div class="col-lg-4 col-md-4 col-12 mt-5">
 					<figure class="text-center">
-					<img src="images/breath.jpg" class="img-fluid" width="120"
+					<img src="images/breathing.png" class="img-fluid" width="120"
 					height="120">
 					<figcaption>difficulty breathing</figcaption>
 					</figure>
@@ -250,7 +250,7 @@ while($i < $statescount){
 						<div class="row">
 							<div class="col-lg-4 col-md-4 col-12">
 								<figure class="text-center">
-									<img src="images/handwash.png" class="img-fluid" width="90" height="90">
+									<img src="images/wash.png" class="img-fluid" width="90" height="90">
 								</figure>
 							</div>
 							<div class="col-lg-8 col-md-8 col-12">
@@ -263,7 +263,7 @@ while($i < $statescount){
 						<div class="row">
 							<div class="col-lg-4 col-md-4 col-12">
 								<figure class="text-center">
-									<img src="images/mask.png" class="img-fluid" width="90" height="90">
+									<img src="images/man.png" class="img-fluid" width="90" height="90">
 								</figure>
 							</div>
 							<div class="col-lg-8 col-md-8 col-12">
@@ -276,7 +276,7 @@ while($i < $statescount){
 						<div class="row">
 							<div class="col-lg-4 col-md-4 col-12">
 								<figure class="text-center">
-									<img src="images/close2.png" class="img-fluid" width="90" height="90">
+									<img src="images/keep-distance.png" class="img-fluid" width="90" height="90">
 								</figure>
 							</div>
 							<div class="col-lg-8 col-md-8 col-12">
@@ -289,7 +289,7 @@ while($i < $statescount){
 						<div class="row">
 							<div class="col-lg-4 col-md-4 col-12">
 								<figure class="text-center">
-									<img src="images/home.jpg" class="img-fluid" width="90" height="90">
+									<img src="images/stay-home.png" class="img-fluid" width="90" height="90">
 								</figure>
 							</div>
 							<div class="col-lg-8 col-md-8 col-12">
@@ -302,7 +302,7 @@ while($i < $statescount){
 						<div class="row">
 							<div class="col-lg-4 col-md-4 col-12">
 								<figure class="text-center">
-									<img src="images/news.png" class="img-fluid" width="90" height="90">
+									<img src="images/aaj.png" class="img-fluid" width="90" height="90">
 								</figure>
 							</div>
 							<div class="col-lg-8 col-md-8 col-12">
@@ -315,7 +315,7 @@ while($i < $statescount){
 						<div class="row">
 							<div class="col-lg-4 col-md-4 col-12">
 								<figure class="text-center">
-									<img src="images/caugh2.jpg" class="img-fluid" width="90" height="90">
+									<img src="images/doctor.png" class="img-fluid" width="90" height="90">
 								</figure>
 							</div>
 							<div class="col-lg-8 col-md-8 col-12">
