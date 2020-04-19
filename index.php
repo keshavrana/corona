@@ -362,8 +362,8 @@ while($i < $statescount){
 		<label class="custom-control-label" for="customcheckbox3">Difficulty in breath</label>	
 	</div>
 	<div class="custom-control custom-checkbox custom-control-inline text-capitalize">
-		<input type="checkbox" class="custom-control-input" id="customcheckbox4" name="coronasym[]" value="tired">
-		<label class="custom-control-label" for="customcheckbox4">feeling week</label>	
+		<input type="checkbox" class="custom-control-input" id="customcheckbox4" name="coronasym[]" value="Nothing">
+		<label class="custom-control-label" for="customcheckbox4">None Of These</label>	
 	</div>
 	
 </div>
