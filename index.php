@@ -336,7 +336,7 @@ while($i < $statescount){
 	<div class="row">
 		<div class="col-lg-8 offset-lg-2 col-12">
 
-		<form action="" method="POST">
+		<form action="index.php" method="POST">
 
   <div class="form-group">
     <label>Name:</label>
@@ -422,7 +422,6 @@ include 'dbcon.php';
 if(isset($_POST['submit'])){
 
 	$username = $_POST['username'];
-	$email = $_POST['email'];
 	$mobile = $_POST['mobile'];
 	$symp = $_POST['coronasym'];
 	$msg = $_POST['msg'];
@@ -431,7 +430,7 @@ if(isset($_POST['submit'])){
 	foreach ($symp as $chk1) {
 		$chk .= $chk1."," ;
 	}
-	$insertquery = "insert into coronacase( username, email, mobile, symp, message) values('$username', '$email', '$mobile', '$chk', '$msg')";
+	$insertquery = "insert into coronacase( name, mobile, symp, message) values('$username', '$mobile', '$chk', '$msg')";
 	$query = mysqli_query($con, $insertquery);
 }
 ?>
