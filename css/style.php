@@ -21,7 +21,7 @@ html{
 	font-size: 3rem;
 }
 .corona_rot img{
-	animation: gocorona 3s linear infinite;
+	animation: gocorona 2s linear infinite;
 }
 @keyframes gocorona{
 	0% { transform: rotate(0); }
@@ -108,5 +108,8 @@ html{
 	}
 	.about_res{ margin-left: 0!important; }
 }
-.banner_style{ margin-left: 0!important; }
+.img_style{
+	width: 50px; height: 50px;
+}
+
 </style>

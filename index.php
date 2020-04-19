@@ -106,7 +106,7 @@
 		</div>
 		<div class="col-lg-7 col-md-7 col-12 order-lg-2 order-1">
 			<div class="rightside w-100 h-100 d-flex justify-content-center align-items-center">
-				<h1>Let's Stay Safe & Fight Together Against Cor<span class="corona_rot"><img src="images/corona.webp" width="125" height="125"></span>na Virus</h1>
+				<h1>Let's Stay Safe & Fight Together Against Cor<span class="corona_rot"><img class="img_style" src="images/corona.webp" width="125" height="125"></span>na Virus</h1>
 				
 			</div>
 		</div>
@@ -339,16 +339,12 @@ while($i < $statescount){
 		<form action="" method="POST">
 
   <div class="form-group">
-    <label>User name</label>
+    <label>Name:</label>
     <input type="text" class="form-control" name="username" placeholder="name" autocomplete="off" required>
   </div>
 
-   <div class="form-group">
-    <label>Email </label>
-    <input type="email" class="form-control" name="email"  placeholder="name@example.com" autocomplete="off" required>
-  </div>
   <div class="form-group">
-    <label>Mobile</label>
+    <label>Mobile:</label>
     <input type="number" class="form-control" name="mobile" placeholder="mobile" autocomplete="off" required>
   </div>
 <div class="form-group">
@@ -375,7 +371,7 @@ while($i < $statescount){
 
 
   <div class="form-group">
-    <label for="exampleFormControlTextarea1">Example textarea</label>
+    <label for="exampleFormControlTextarea1">Message:</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="msg"></textarea>
   </div>
 
