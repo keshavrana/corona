@@ -432,5 +432,21 @@ if(isset($_POST['submit'])){
 	}
 	$insertquery = "insert into coronacase( name, mobile, symp, message) values('$username', '$mobile', '$chk', '$msg')";
 	$query = mysqli_query($con, $insertquery);
+
+if ($query){
+	?>
+	<script>
+		alert("connetion successful");
+	</script>
+	<?php
+}else{
+	?>
+	<script>
+		alert("No connetion ");
+	</script>
+	<?php
+	}
+
 }
+
 ?>
