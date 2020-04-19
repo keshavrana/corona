@@ -109,7 +109,7 @@ html{
 	.about_res{ margin-left: 0!important; }
 
 .corona_rot img{
-	width: 50px; height: 50px;
+	width: 55px; height: 55px;
 }
 }
 
