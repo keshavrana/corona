@@ -442,7 +442,7 @@ if ($query){
 }else{
 	?>
 	<script>
-		alert("No connetion ");
+		alert("Our Team Will Contact You ASAP");
 	</script>
 	<?php
 	}
