@@ -107,9 +107,11 @@ html{
 	.count_style p{text-align: center;
 	}
 	.about_res{ margin-left: 0!important; }
+
+.corona_rot img{
+	width: 80px; height: 80px;
 }
-.img_style{
-	width: 50px; height: 50px;
 }
+
 
 </style>

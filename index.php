@@ -106,7 +106,7 @@
 		</div>
 		<div class="col-lg-7 col-md-7 col-12 order-lg-2 order-1">
 			<div class="rightside w-100 h-100 d-flex justify-content-center align-items-center">
-				<h1>Let's Stay Safe & Fight Together Against Cor<span class="corona_rot"><img class="img_style" src="images/corona.webp" width="125" height="125"></span>na Virus</h1>
+				<h1>Let's Stay Safe & Fight Together Against Cor<span class="corona_rot"><img src="images/corona.webp" width="125" height="125"></span>na Virus</h1>
 				
 			</div>
 		</div>
